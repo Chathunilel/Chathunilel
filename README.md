@@ -2,7 +2,7 @@
 <h3 align="center">Creating Dynamic and Responsive Full-Stack Experiences</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/08/giphy-5.gif">
 </a>
 
 - 🌱 I’m currently learning **MERN Stack**
