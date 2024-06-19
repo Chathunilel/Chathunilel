@@ -2,7 +2,7 @@
 <h3 align="center">Creating Dynamic and Responsive Full-Stack Experiences</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://img.freepik.com/free-vector/designer-life-concept-illustration_114360-1537.jpg?w=740&t=st=1718780296~exp=1718780896~hmac=4991cb193c5c458da375118063d86ff736973b6808dbf2b8edee18e102a3c107">
 </a>
 
 - 🌱 I’m currently learning **MERN Stack**
